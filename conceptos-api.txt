@@ -1,0 +1,6 @@
+Esta ruta recibe información enviada por el usuario mediante 
+el método POST y devuelve una respuesta indicando que el reporte fue recibido.
+
+Podría servir en una aplicación comunitaria para registrar reportes ciudadanos
+como daños en calles, problemas de seguridad, emergencias o solicitudes realizadas 
+por la comunidad.
